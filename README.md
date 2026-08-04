@@ -103,7 +103,6 @@ Projetos voltados para criação de aplicações e páginas web utilizando:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariPombo14&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 Contato
 
