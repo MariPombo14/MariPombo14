@@ -99,10 +99,16 @@ Projetos voltados para criação de aplicações e páginas web utilizando:
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariPombo14&show_icons=true.&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/MariPombo14">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MariPombo14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/MariPombo14">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariPombo14&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariPombo14&layout=compact&theme=tokyonight)
-
+----
 
 ## 📫 Contato
 
