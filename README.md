@@ -53,19 +53,6 @@ Busco continuamente expandir meus conhecimentos com foco em **Banco de Dados (SQ
 
 - Banco de Dados (Modelagem, Consultas SQL e Administração)
 - Desenvolvimento de Sistemas (Back-End & Front-End)
-- Suporte Técnico, Infraestrutura de TI e Redes
-
----
-
-## 📂 Projetos em Destaque
-
-### 💈 Sistema de Agendamento e Gestão para Salão de Cabeleireiro
-
-Sistema web e desktop completo para agendamento de horários, escolha de estilos de corte/barba, galeria de inspiração e painel administrativo (CRUD de clientes e serviços).
-
-- **O Desafio:** Modelagem complexa do banco de dados relacional e desenvolvimento em C#, lidando com rigor de tipagem e integridade dos dados.
-- **A Solução:** Desenvolvimento em equipe utilizando metodologia colaborativa, documentação técnica com auxílio de IA, integração de pagamentos em C#, interface com Bootstrap/PHP e banco MySQL.
-- **Tecnologias:** C#, PHP, MySQL Workbench, HTML5, CSS3, Bootstrap, Git e GitHub.
 
 ---
 
